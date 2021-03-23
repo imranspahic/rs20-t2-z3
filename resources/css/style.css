@@ -1,0 +1,25 @@
+.root {
+    -fx-background-color: #d3fccac;
+}
+
+#textArea {
+    -fx-border-color: black;
+    -fx-background-color: #fffca6;
+    -fx-font-size: 17px;
+    -fx-text-fill: #d9b114;
+}
+
+#sacuvaj {
+    -fx-background-color: yellow;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-border-style: solid;
+    -fx-border-color: black;
+}
+
+#sacuvaj:hover {
+    -fx-background-color: #d1b11f;
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+    -fx-cursor: pointer;
+}
